@@ -25,6 +25,12 @@ Changes Made
 =================
 
 ## Part 1
+- Added in ```<link href="styles.css" rel="stylesheet">``` in each file after the ```<style>``` tag if there was existing css.
+- Changed the background color to ```#f6eccb```
+- Changed ```<p>``` text-style to use ```palatino```
+- Changed ```<img>``` to have rounded corners and to adjust size according to window size
+- Changed header tags to have a shadow 
+- Changed ```<a>``` to be black underlined and when hovered remove underline and change color to blue
 
 
 
