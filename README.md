@@ -42,5 +42,6 @@ Resources
 - https://www.apache.org/licenses/LICENSE-2.0
 - https://www.w3schools.com/css/css3_borders.asp
 - https://www.w3schools.com/css/css_text.asp
-
-
+- https://openclipart.org/detail/8591/fireworks
+- https://media.giphy.com/media/peAFQfg7Ol6IE/giphy.gif
+- https://www.w3schools.com/howto/howto_css_fixed_footer.asp
